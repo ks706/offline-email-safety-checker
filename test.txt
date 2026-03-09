@@ -1,0 +1,31 @@
+From: security@paypa1-support.com
+To: johndoe@gmail.com
+Subject: URGENT: Your account has been suspended
+Reply-To: collect.info@freemail.ru
+Date: Mon, 09 Mar 2026 08:42:11 -0500
+Return-Path: bounce@paypa1-support.com
+
+Dear Valued Customer,
+
+We have detected unusual activity on your PayPal account. Your account has been 
+temporarily suspended for your protection.
+
+You must verify your information IMMEDIATELY or your account will be permanently 
+closed within 24 hours.
+
+Click here to restore your account: http://192.168.1.204/paypal/verify?token=abc123
+
+Alternatively visit: http://bit.ly/3xR9paypa1-restore
+
+Please provide the following to unlock your account:
+- Full name
+- Password
+- Credit card number
+- Social Security Number
+
+Attachment: account_statement.pdf.exe
+
+Failure to act NOW will result in permanent account termination.
+
+PayPal Security Team
+END
